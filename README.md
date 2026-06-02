@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm shreya </h1>
 <h2>⟡ about me </h2>
 
-- ⚙️ i'm an **ece undergrad @ nit durgapur** currently **building full-stack applications and working on real projects**
+- ⚙️ i'm an **ece undergrad @ nit durgapur** currently **building full-stack applications and exploring embedded systems**
 - 🔧 i've worked across **frontend and backend**, but i lean towards **backend** - designing systems, handling logic, and making things reliable
 - 🧩 actively working on **backend-heavy systems** and improving how I structure and scale applications
 - 🏀 outside of tech, you'll probably find me on the **basketball court** or **building something new**
